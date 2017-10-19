@@ -8,13 +8,13 @@ http://bbc.github.io/subtitle-guidelines/
 
 Subtitling Free Tools:
 ----------------------------------------
-SubtitleEdit
-Subtitle Workshop
-Subtitle Editor
-Open Subtitle Editor
-Aegisub
-Google2srt
+SubtitleEdit</br>
+Subtitle Workshop </br>
+Subtitle Editor </br>
+Open Subtitle Editor </br>
+Aegisub </br>
+Google2srt </br>
 
 Source:
 --------------------------------------
-You can find most speakers in here: muslimcentral.com
+You can find most speakers in here: <a href="muslimcentral.com">muslimcentral.com</a>
