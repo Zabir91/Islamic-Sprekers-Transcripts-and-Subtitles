@@ -2,7 +2,7 @@
 
 
 
-SUbtitlling Guide: 
+SUbtitling Guide: 
 -----------------------------------------
 http://bbc.github.io/subtitle-guidelines/
 
