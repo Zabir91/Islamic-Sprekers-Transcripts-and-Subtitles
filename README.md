@@ -8,12 +8,12 @@ http://bbc.github.io/subtitle-guidelines/
 
 Subtitling Free Tools:
 ----------------------------------------
-SubtitleEdit</br>
+<a href="https://github.com/SubtitleEdit">SubtitleEdit</a></br>
 Subtitle Workshop </br>
 Subtitle Editor </br>
 Open Subtitle Editor </br>
 Aegisub </br>
-Google2srt </br>
+<a href="http://google2srt.sourceforge.net/en/">Google2srt</a> </br>
 
 Source:
 --------------------------------------
