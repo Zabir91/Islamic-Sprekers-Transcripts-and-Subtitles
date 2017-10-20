@@ -1586,7 +1586,7 @@ Ch.No. 6, Section No. 2, Verse No.1.
 
 386
 00:20:42,484 --> 00:20:44,127
-<font color="#caca00">‘Ekkam Avidetium’…</font>
+<font color="#caca00">‘Ekam Avidetium’…</font>
 
 387
 00:20:44,359 --> 00:20:46,947
@@ -1830,4 +1830,13 @@ Ch.No. 40, V.No.9,
 443
 00:23:44,245 --> 00:23:48,095
 <font color="#caca00">‘Andasma Pravishanti Ya Sambhuti Upaste’, </font>
+
+444
+00:23:48,365 --> 00:23:49,337
+which means –
+
+445
+00:23:49,470 --> 00:23:54,268
+‘They are entering darkness those
+who worship the Asambuti’.
 
