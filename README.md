@@ -1,5 +1,5 @@
-</br>بسم الله الرحمن الرحيم
-In the name of Allah, Most Gracious, Most Merciful
+بسم الله الرحمن الرحيم
+</br>In the name of Allah, Most Gracious, Most Merciful
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
