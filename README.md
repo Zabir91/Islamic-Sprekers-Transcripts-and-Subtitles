@@ -1,3 +1,8 @@
+بسم الله الرحمن الرحيم
+In the name of Allah, Most Gracious, Most Merciful
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 # Islamic-Sprekers-Transcripts-and-Subtitles
 
 
