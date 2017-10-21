@@ -1,4 +1,5 @@
-بسم الله الرحمن الرحيم<p style="text-align:center;>
+<p style="text-align:center;>
+بسم الله الرحمن الرحيم
 
 </br>In the name of Allah, Most Gracious, Most Merciful </p>
 
