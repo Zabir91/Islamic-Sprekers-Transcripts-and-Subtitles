@@ -1,10 +1,10 @@
-بسم الله الرحمن الرحيم
+بسم الله الرحمن الرحيم<p style="text-align:center;>
 
-</br>In the name of Allah, Most Gracious, Most Merciful
+</br>In the name of Allah, Most Gracious, Most Merciful </p>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# Islamic-Sprekers-Transcripts-and-Subtitles
+Islamic-Sprekers-Transcripts-and-Subtitles
 
 
 
