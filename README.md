@@ -10,12 +10,12 @@
 http://bbc.github.io/subtitle-guidelines/
 
 ### Subtitling Free Tools:
-* [SubtitleEdit](https://github.com/SubtitleEdit)
+* [SubtitleEdit] (https://github.com/SubtitleEdit)
 * Subtitle Workshop
 * Subtitle Editor
 * Open Subtitle Editor
 * Aegisub
-* Google2srt](http://google2srt.sourceforge.net/en/[)
+* [Google2srt] (http://google2srt.sourceforge.net/en/)
 
 ### Source:
 You can find most speakers in here: <a href="muslimcentral.com">muslimcentral.com</a>
