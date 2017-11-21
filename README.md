@@ -19,3 +19,11 @@ http://bbc.github.io/subtitle-guidelines/
 
 ### Source:
 You can find most speakers in here: <a href="muslimcentral.com">muslimcentral.com</a>
+
+## Text Cleanup
+### Regex to remove html tags
+<(?:[^>=]|='[^']*'|="[^"]*"|=[^'"][^\s>]*)*>
+or
+<[^>]*>([\s]?)*<[^>]*>
+### Regex to remove subtitle timestmap
+([0-9]*\n([0-9]{2}:){2}[0-9]{2},[0-9]{3} --> ([0-9]{2}:){2}[0-9]{2},[0-9]{3})
