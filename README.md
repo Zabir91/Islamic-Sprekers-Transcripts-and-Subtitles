@@ -23,10 +23,15 @@ You can find most speakers in here: <a href="muslimcentral.com">muslimcentral.co
 ## Text Cleanup
 ### Regex to remove html tags
 <(?:[^>=]|='[^']*'|="[^"]*"|=[^'"][^\s>]*)*>
+
 or
+
 <[^>]*>([\s]?)*<[^>]*>
+
 or
+
 <(.|\n)+?>
+
 
 ### Regex to remove subtitle timestmap
 ([0-9]*\n([0-9]{2}:){2}[0-9]{2},[0-9]{3} --> ([0-9]{2}:){2}[0-9]{2},[0-9]{3})
