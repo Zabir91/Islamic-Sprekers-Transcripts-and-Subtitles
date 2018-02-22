@@ -10,12 +10,12 @@
 root
 ├── Speaker Name
 	├── laneguage (En)
-    	├── Lecture Name 1
-    		└── Lecture Name.meta (Info about the lecture,Name, Date, Place etc)
-    		└── lecture Name.txt (Lecture text, utf-8 encoded)
-    		└── Lecture Name.odt (open document)
+    		├── Lecture Name 1
+    			└── Lecture Name.meta (Info about the lecture,Name, Date, Place etc)
+    			└── lecture Name.txt (Lecture text, utf-8 encoded)
+    			└── Lecture Name.odt (open document)
    			└── Lecture Name.pdf (pdf file)
-    		└── Lecture Name.srt (Subtitle)
+    			└── Lecture Name.srt (Subtitle)
 		├── Lecture Name 2
 		├── Lecture Name 3
 	├── Language (Bn)
@@ -24,7 +24,7 @@ root
 		├── Lecture Name 3
 ```
         
-<b>Note: meta, txt and srt files are in higher priority</b>
+<b>Note: Creting meta, txt and srt files are in higher priority</b>
         
 #### Example Folder and file Structure
 ```
