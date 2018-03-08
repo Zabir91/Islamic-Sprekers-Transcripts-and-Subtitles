@@ -1,5 +1,5 @@
 
-Bayyinah Institute
+Bayyinah Institute </br>
 <a href="https://www.youtube.com/user/BayyinahInstitute">Bayyinah Institute Youtube cahnnel</a></br>
 <a href="https://bayyinah.com/">Bayyinah Institute Website</a></br>
 <a href="bayyinah.tv">Bayyinah TV</a></br>
