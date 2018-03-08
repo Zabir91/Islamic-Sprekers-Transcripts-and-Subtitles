@@ -1,4 +1,8 @@
-Bayyinah Institute
+
+<a href="https://www.youtube.com/user/BayyinahInstitute">Bayyinah Institute Youtube cahnnel</a>
+<a href="https://bayyinah.com/">Bayyinah Institute Website</a>
+<a href="bayyinah.tv">Bayyinah TV</a>
+<a href="https://twitter.com/bayyinahinst">Bayyinah Institute twitter</a>
 
 Transcript Sources:
 * http://www.nakcollection.com/transcripts.html
