@@ -13,9 +13,9 @@ root
     		├── Lecture Name 1
     			└── Lecture Name_en.meta (Info about the lecture,Name, Date, Place etc)
     			└── lecture Name_en.txt (Lecture text, utf-8 encoded)
+          └── Lecture Name_en.srt (Subtitle)
     			└── Lecture Name_en.odt (open document)
-   			  └── Lecture Name_en.pdf (pdf file)
-    			└── Lecture Name_en.srt (Subtitle)
+          └── Lecture Name_en.pdf (pdf file)
 		├── Lecture Name 2
       ~
 		├── Lecture Name 3
