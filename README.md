@@ -11,24 +11,26 @@ root
 ├── Speaker Name
 	├── laneguage (En)
     		├── Lecture Name 1
-    			└── Lecture Name_en.meta (Info about the lecture,Name, Date, Place etc)
-    			└── lecture Name_en.txt (Lecture text, utf-8 encoded)
-          └── Lecture Name_en.srt (Subtitle)
-    			└── Lecture Name_en.odt (open document)
-          └── Lecture Name_en.pdf (pdf file)
+			└── Lecture Name_en.meta (Info about the lecture,Name, Date, Place etc)
+			└── lecture Name_en.txt (Lecture text, utf-8 encoded)
+			└── Lecture Name_en.srt (Subtitle)
+			└── Lecture Name_en.odt (open document)
+			└── Lecture Name_en.pdf (pdf file)
 		├── Lecture Name 2
-      ~
+			~
 		├── Lecture Name 3
-      ~
+			~
 	├── Language (Bn)
 		├── Lecture Name 1
-      └── Lecture Name_bn.meta (Info about the lecture,Name, Date, Place etc)
-      └── lecture Name_bn.txt (Lecture text, utf-8 encoded)
-      └── Lecture Name_bn.odt (open document)
-      └── Lecture Name_bn.pdf (pdf file)
-    └── Lecture Name.srt (Subtitle)
+			└── Lecture Name_bn.meta (Info about the lecture,Name, Date, Place etc)
+			└── lecture Name_bn.txt (Lecture text, utf-8 encoded)
+			└── Lecture Name_bn.odt (open document)
+			└── Lecture Name_bn.pdf (pdf file)
+			└── Lecture Name.srt (Subtitle)
 		├── Lecture Name 2
+			~
 		├── Lecture Name 3
+			~
 ```
 
 <b>Note: Creating meta, txt and srt files are in higher priority</b>
