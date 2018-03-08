@@ -8,4 +8,4 @@ Transcript Sources:
 * http://www.hibamagazine.com/tag/lecture-transcription/
 * https://www.islamicboard.com/lecture-transcripts/
 * https://onelecture.wordpress.com/transcripts/
-* https://mehjabeen1.wordpress.com/to-my-angry-young-muslim-brother-nouman-ali-khan-lecture-transcript/
+* https://mehjabeen1.wordpress.com
