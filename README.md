@@ -11,7 +11,7 @@ root
 ├── Speaker Name
 	├── laneguage (En)
     		├── Lecture Name 1
-			└── Lecture Name_en.meta (Info about the lecture,Name, Date, Place etc)
+			└── Lecture Name_en.meta (Info about the lecture,Name, Date, Place, transcriber(s), source etc)
 			└── lecture Name_en.txt (Lecture text, utf-8 encoded)
 			└── Lecture Name_en.srt (Subtitle)
 			└── Lecture Name_en.odt (open document)
@@ -22,7 +22,7 @@ root
 			~
 	├── Language (Bn)
 		├── Lecture Name 1
-			└── Lecture Name_bn.meta (Info about the lecture,Name, Date, Place etc)
+			└── Lecture Name_bn.meta (Info about the lecture,Name, Date, Place, transcriber(s), Source etc)
 			└── lecture Name_bn.txt (Lecture text, utf-8 encoded)
 			└── Lecture Name_bn.odt (open document)
 			└── Lecture Name_bn.pdf (pdf file)
