@@ -11,36 +11,56 @@ root
 ├── Speaker Name
 	├── laneguage (En)
     		├── Lecture Name 1
-    			└── Lecture Name.meta (Info about the lecture,Name, Date, Place etc)
-    			└── lecture Name.txt (Lecture text, utf-8 encoded)
-    			└── Lecture Name.odt (open document)
-   			└── Lecture Name.pdf (pdf file)
-    			└── Lecture Name.srt (Subtitle)
+    			└── Lecture Name_en.meta (Info about the lecture,Name, Date, Place etc)
+    			└── lecture Name_en.txt (Lecture text, utf-8 encoded)
+    			└── Lecture Name_en.odt (open document)
+   			  └── Lecture Name_en.pdf (pdf file)
+    			└── Lecture Name_en.srt (Subtitle)
 		├── Lecture Name 2
+      ~
 		├── Lecture Name 3
+      ~
 	├── Language (Bn)
 		├── Lecture Name 1
+      └── Lecture Name_bn.meta (Info about the lecture,Name, Date, Place etc)
+      └── lecture Name_bn.txt (Lecture text, utf-8 encoded)
+      └── Lecture Name_bn.odt (open document)
+      └── Lecture Name_bn.pdf (pdf file)
+    └── Lecture Name.srt (Subtitle)
 		├── Lecture Name 2
 		├── Lecture Name 3
 ```
-        
-<b>Note: Creting meta, txt and srt files are in higher priority</b>
-        
+
+<b>Note: Creating meta, txt and srt files are in higher priority</b>
+
 #### Example Folder and file Structure
 ```
  root
  ├── Ahmed Deedat
     ├── En
         ├── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)
+            └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_en.meta
+            └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_en.txt
+            └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_en.srt
+            └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_en.odt
+            └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_en.pdf
         ├── IS JESUS GOD
+          ~
         ├── DEBATE - WAS CHRIST CRUCIFIED
+          ~
     ├── Bn
-        ├── Lecture Name 1
-        ├── Lecture Name 2
-        ├── Lecture Name 3
-
+      ├── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)
+          └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_bn.meta
+          └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_bn.txt
+          └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_bn.srt
+          └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_bn.odt
+          └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_bn.pdf
+          ├── IS JESUS GOD
+            ~
+          ├── DEBATE - WAS CHRIST CRUCIFIED
+            ~
 ```
-### Subtitling Guide: 
+### Subtitling Guide:
 
 http://bbc.github.io/subtitle-guidelines/
 
