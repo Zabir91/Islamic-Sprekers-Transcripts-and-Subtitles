@@ -92,5 +92,5 @@ or
 ([0-9]*\n([0-9]{2}:){2}[0-9]{2},[0-9]{3} --> ([0-9]{2}:){2}[0-9]{2},[0-9]{3})
 ```
 
-#License
-The texts are free for all kinds of dawah purpose. Spread the Islam, The return is from Allah (SWT). 
+## License
+The texts are free for all kinds of dawah purpose. Spread the Islam, The return is from Allah (SWT).
