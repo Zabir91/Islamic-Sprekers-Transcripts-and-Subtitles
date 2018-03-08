@@ -15,7 +15,6 @@ root
 			└── lecture Name_en.txt (Lecture text, utf-8 encoded)
 			└── Lecture Name_en.srt (Subtitle)
 			└── Lecture Name_en.odt (open document)
-			└── Lecture Name_en.pdf (pdf file)
 		├── Lecture Name 2
 			~
 		├── Lecture Name 3
@@ -25,7 +24,6 @@ root
 			└── Lecture Name_bn.meta (Info about the lecture,Name, Date, Place, transcriber(s), Source etc)
 			└── lecture Name_bn.txt (Lecture text, utf-8 encoded)
 			└── Lecture Name_bn.odt (open document)
-			└── Lecture Name_bn.pdf (pdf file)
 			└── Lecture Name.srt (Subtitle)
 		├── Lecture Name 2
 			~
@@ -45,7 +43,6 @@ root
             └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_en.txt
             └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_en.srt
             └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_en.odt
-            └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_en.pdf
         ├── IS JESUS GOD
           ~
         ├── DEBATE - WAS CHRIST CRUCIFIED
@@ -56,7 +53,6 @@ root
           └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_bn.txt
           └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_bn.srt
           └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_bn.odt
-          └── WHAT THE BIBLE SAYS ABOUT MUHAMMAD (PBUH)_bn.pdf
           ├── IS JESUS GOD
             ~
           ├── DEBATE - WAS CHRIST CRUCIFIED
