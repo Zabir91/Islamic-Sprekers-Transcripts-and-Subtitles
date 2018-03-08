@@ -33,7 +33,7 @@ root
 			~
 ```
 
-<b>Note: Creating meta, txt and srt files are in higher priority</b>
+ :heavy_exclamation_mark: <b>Note: Creating meta, txt and srt files are in higher priority</b>
 
 #### Example Folder and file Structure
 ```
