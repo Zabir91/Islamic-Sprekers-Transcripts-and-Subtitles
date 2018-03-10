@@ -13,5 +13,5 @@ https://twitter.com/almaghrib
 * https://muslimmatters.org/2008/06/02/is-islam-a-fairy-tale-when-told-to-the-poor/
 * https://www.islamicboard.com/miscellaneous/35160-online-articles-transcribed-lectures-yasir-qadhi-amp-muhammad-al-shareef.html
 * http://arqadhi2.blogspot.com
-* https://arqadhi.blogspot.co.uk/?m=1
+* https://arqadhi.blogspot.co.uk
 * http://navedz.com/tag/yasir-qadhi/
