@@ -2,8 +2,7 @@
 Almaghrib Institute
 https://www.almaghrib.org
 https://twitter.com/almaghrib
-
-##Official youtube channel: https://www.youtube.com/user/YasirQadhi
+Official youtube channel: https://www.youtube.com/user/YasirQadhi
 
 ##Transcripts Sources:
 
