@@ -6,6 +6,7 @@ Official youtube channel: https://www.youtube.com/user/YasirQadhi
 
 ##Transcripts Sources:
 
+* http://www.khutbah.com - Provided by Al Almaghrib
 * https://transcribedislamiclectures.wordpress.com/shaykh-yasir-qadhi/
 * https://transcribedislamiclectures.wordpress.com/transcriptsnotes/  
 * https://muslimmatters.org/2008/06/03/transcript-of-the-true-happiness-khutbah-by-yasir-qadhi
