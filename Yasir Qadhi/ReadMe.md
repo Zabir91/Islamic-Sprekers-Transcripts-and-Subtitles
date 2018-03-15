@@ -15,3 +15,6 @@ Official youtube channel: https://www.youtube.com/user/YasirQadhi
 * http://arqadhi2.blogspot.com
 * https://arqadhi.blogspot.co.uk
 * http://navedz.com/tag/yasir-qadhi/
+
+##Bio
+Yasir Qadhi was born in Houston, Texas and completed his primary and secondary education in Jeddah, Saudi Arabia. He graduated with a B.Sc. in Chemical Engineering from the University of Houston, after which he was accepted as a student at the Islamic University of Madinah. After completing a diploma in Arabic, he graduated with a B.A. from the College of Hadith and Islamic Sciences. Thereafter, he completed a M.A. in Islamic Theology from the College of Dawah.
