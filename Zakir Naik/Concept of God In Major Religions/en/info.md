@@ -4,9 +4,9 @@ He speaks about God as mentioned in the major religions such as Islam, Christian
 Official youtube video link: https://www.youtube.com/watch?v=nErTkF3w83U
 
 PLEASE VISIT OFFICIAL WEBSITES
-http://www.peacetv.tv/
-www.irf.net
-www.facebook.com/zakirnaik
-www.plus.google.com/+Drzakirchannel
-www.twitter.com/zakirnaikirf
-www.youtube.com/drzakirchannel
+* http://www.peacetv.tv/
+* www.irf.net
+* www.facebook.com/zakirnaik
+* www.plus.google.com/+Drzakirchannel
+* www.twitter.com/zakirnaikirf
+* www.youtube.com/drzakirchannel
