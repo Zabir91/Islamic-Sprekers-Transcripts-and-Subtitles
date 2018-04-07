@@ -1,12 +1,12 @@
-#Yasir Qadhi
+# Yasir Qadhi
 Almaghrib Institute
 https://www.almaghrib.org
 https://twitter.com/almaghrib
 Official youtube channel: https://www.youtube.com/user/YasirQadhi
 
-##Transcripts Sources:
+## Transcripts Sources:
 
-* http://www.khutbah.com - Provided by Al Almaghrib
+* http://www.khutbah.com - Provided by Al Maghrib
 * https://transcribedislamiclectures.wordpress.com/shaykh-yasir-qadhi/
 * https://transcribedislamiclectures.wordpress.com/transcriptsnotes/  
 * https://muslimmatters.org/2008/06/03/transcript-of-the-true-happiness-khutbah-by-yasir-qadhi
@@ -16,5 +16,5 @@ Official youtube channel: https://www.youtube.com/user/YasirQadhi
 * https://arqadhi.blogspot.co.uk
 * http://navedz.com/tag/yasir-qadhi/
 
-##Bio
+## Bio
 Yasir Qadhi was born in Houston, Texas and completed his primary and secondary education in Jeddah, Saudi Arabia. He graduated with a B.Sc. in Chemical Engineering from the University of Houston, after which he was accepted as a student at the Islamic University of Madinah. After completing a diploma in Arabic, he graduated with a B.A. from the College of Hadith and Islamic Sciences. Thereafter, he completed a M.A. in Islamic Theology from the College of Dawah.
